@@ -41,8 +41,6 @@ An open-source Web3 library of vector-based UI components for blockchain and Web
   &nbsp;&nbsp;
   <img src="Vector Logos/TRON (TRX).svg" width="45" title="TRON"/>
   &nbsp;&nbsp;
-  <img src="Vector Logos/Tether (USDT).svg" width="45" title="Tether"/>
-  &nbsp;&nbsp;
   <img src="Vector Logos/Stellar (XLM).svg" width="45" title="Stellar"/>
 </p>
 
